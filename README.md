@@ -6,11 +6,6 @@ Apart from the above, I build software quite often; I mainly write scripts in 5 
 
 I play music and design for fun; I can work with Sonic Pi and learn while entertaining. I enjoy Photography and going out to do awesome things, like "Sky Diving." 😀️🌍️
 
-<!--
-**CedricMurairi/CedricMurairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a custom planner app for my daily schedule (Web and Desketop first -> Mobile later)
 - 🌱 I’m currently learning Ada, Go, Processing, Arduino
 - 👯 I’m looking to collaborate on Flask, Flutter, Python GUI
@@ -19,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: I am DUDE
 - ⚡ Fun fact: I am a Linux user and love telling the truth no matter how hard it might be or sound like
--->
