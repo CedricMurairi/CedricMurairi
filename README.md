@@ -12,5 +12,4 @@ Apart from the above, I build software quite often; I mainly write scripts in 5 
 - 🤔 I’m looking for help with **Electronics and Type 1 Engineering (Physics, Mechanics, ...)**
 - 💬 Ask me about **Flask, Flutter, C, Python, HTML, CSS, Javascript, Java, and more**
 - 📫 How to reach me: [Email](mailto:murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Twitter](https://twitter.com/CMurairi), Telegram: +250787104022, others I do not check quite often
-- 😄 Pronouns: I am DUDE
 - ⚡ Fun fact: I am a Linux user and love telling the truth no matter how hard it might be or sound like
