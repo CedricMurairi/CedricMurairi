@@ -7,10 +7,10 @@ Apart from the above, I build software quite often; I mainly write scripts in 5 
 *I play music and design for fun; I can work with Sonic Pi and learn while entertaining. I enjoy Photography and going out to do awesome things, like "Sky Diving." 😀️🌍️*
 
 - 🔭 I’m currently working on a custom planner app for my daily schedule (Web and Desketop first -> Mobile later)
-- 🌱 I’m currently learning Ada, Go, Processing, Arduino
-- 👯 I’m looking to collaborate on Flask, Flutter, Python GUI
-- 🤔 I’m looking for help with Electronics and Type 1 Engineering (Physics, Mechanics, ...)
-- 💬 Ask me about Flask, Flutter, C, Python, HTML, CSS, Javascript, Java, 
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning **Ada, Go, Processing, Arduino**
+- 👯 I’m looking to collaborate on **Flask, Flutter, Python GUI**
+- 🤔 I’m looking for help with **Electronics and Type 1 Engineering (Physics, Mechanics, ...)**
+- 💬 Ask me about **Flask, Flutter, C, Python, HTML, CSS, Javascript, Java, and more**
+- 📫 How to reach me: [Email](murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Telegram](+250787104022), [Twitter](https://twitter.com/CMurairi), others I do not check quite often
 - 😄 Pronouns: I am DUDE
 - ⚡ Fun fact: I am a Linux user and love telling the truth no matter how hard it might be or sound like
