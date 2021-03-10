@@ -11,5 +11,5 @@ I play music and design for fun; I can work with Sonic Pi and learn while entert
 - 👯 I’m looking to collaborate on **Flask, Flutter, Python GUI**
 - 🤔 I’m looking for help with **Electronics and Type 1 Engineering (Physics, Mechanics, ...)**
 - 💬 Ask me about **Flask, Flutter, C, Python, HTML, CSS, Javascript, Java, and more**
-- 📫 How to reach me: [Email](mailto:murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Twitter](https://twitter.com/CMurairi), Telegram: +250787104022, others I do not check quite often
+- 📫 How to reach me: [Email](mailto:murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Twitter](https://twitter.com/CMurairi), Telegram: +250787104022, others I DO NOT use
 - ⚡ Fun fact: I am a Linux user and love telling the truth no matter how hard it might be or sound like
