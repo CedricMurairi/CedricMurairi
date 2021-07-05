@@ -1,12 +1,9 @@
 ## Hello Devs and Hiring Managers 👋
 #### Student at ALU | Software Engineer | Engineer | Embedded System | Aero&Space Modelling | Business | Heal&Feed the world
 
-My name is Cédric Muriairi a Junior Engineer | Software Engineer, I build software and embedded software; I mainly write scripts in 3 programming languages, Python&Flask, Javascript, and C. Fun fact, I am a Linux user and currently learning GoLang.
-I am open-minded and a great team player. I am a stern believer that Curiosity and Perseverance matter for any problem-solving.
-
-Apart from that, I like to build things that turn very fast and burn very hot. I am passionate about Embedded Systems, Mechatronics, and Space ✨️. Hit my DM for collaboration in those areas.
-
-I play music and design for fun; I can work with Sonic Pi and learn while entertaining. I enjoy Photography and going out to do awesome things, like "Hiking." 😀️🌍️
+My name is Cédric Muriairi a Junior Engineer | Software Engineer, I build software and embedded software; I mainly write scripts in 2 programming languages, Python|Flask|Django*, Javascript|Node|React*. Fun fact, I am a Linux user and currently learning Flutter, GoLang. I am open-minded and a great team player. I am a stern believer that Curiosity and Perseverance matter for any problem-solving.
+Apart from that, I have a growing passion of Embedded Systems, Mechatronics, and Space ✨️.
+I play music, and I design for fun; enjoy Photography and going out to do awesome things, like "Hiking." 😀️🌍️
 
 - 🔭 I’m currently working on a custom planner app for my daily schedule (Web and Desktop first -> Mobile later)
 - 🌱 I’m currently learning **Go, Processing, Arduino**
