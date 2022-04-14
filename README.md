@@ -1,4 +1,4 @@
-## Hi I'm Cédric
+## Hi, I'm Cédric
 
 Python and JavaScript Engineer, I build mobile, web and desktop applications. Open-minded and great team player. I am a stern believer that curiosity and perseverance are key in picking up new technologies and problem-solving.
 Aside from software engineering, I have growing passion for embedded systems, robotics, and space engineering.
