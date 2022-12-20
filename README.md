@@ -1,10 +1,12 @@
 ## Hi, I'm Cédric
 
-Python and JavaScript Engineer, I build mobile, web and desktop applications. Open-minded and great team player. I am a stern believer that curiosity and perseverance are key in picking up new technologies and problem-solving.
-Aside from software engineering, I have growing passion for embedded systems, robotics, and space engineering.
-Being community and people centered, I believe in a world where people have equal chances to contribute in building tools and technologies they use everyday.
+I am a Progressive Engineer; I am currently building Mobile, Mobile Web, and Desktop applications. Open-minded and great team player. My curious mind is always looking for new challenges and better ways to solve problems.
+I am focusing on Mobile Cross-Platform Developments, Mobile Web, P.W.A, and overall systems architecture to cut down production costs and efforts needed for systems designs and implementations. With my day-to-day tasks I use technologies like Python, JavaScript, Dart, Flutter, NodeJS, Angular, React, PostgreSQL, MongoDB, Redis, Firebase and Linux.
 
-- 🌱 I’m currently learning **Angular and Java Spring**
-- 👯 I’m looking to collaborate on **Python(Flask&Django), Flutter, React**
-- 💬 Ask me about **Python, HTML, CSS, Javascript, Web**
-- 📫 How to reach me: [Email](mailto:murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Twitter](https://twitter.com/CMurairi), Telegram: +250787914985
+Besides software engineering, I have a growing passion for Agriculture, Education, Fine Arts, Embedded Systems, Robotics and Space Engineering. I spend my free time researching and practicing these skills.
+I do cooking and action sports to unwind.
+
+- 🌱 I’m currently learning **Angular and Java Spring Framework**
+- 👯 I’m looking to collaborate on **Python (Flask-Django), Flutter, JavaScript (React-Node-Next)**
+- 💬 Ask me about **Mobile and Mobile Web**
+- 📫 How to reach me: [Email](mailto:murairicedric@gmail.com), [LinkedIn](https://www.linkedin.com/in/cedric-murairi/), [Twitter](https://twitter.com/CMurairi), Telegram: +250787104022
